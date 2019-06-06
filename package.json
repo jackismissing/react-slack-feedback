@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/markmur/react-slack-feedback"
+    "url": "https://github.com/jackismissing/react-slack-feedback"
   },
   "keywords": [
     "react",
@@ -56,9 +56,9 @@
     "feedback"
   ],
   "bugs": {
-    "url": "https://github.com/markmur/react-slack-feedback/issues"
+    "url": "https://github.com/jackismissing/react-slack-feedback/issues"
   },
-  "homepage": "https://github.com/markmur/react-slack-feedback",
+  "homepage": "https://github.com/jackismissing/react-slack-feedback",
   "devDependencies": {
     "@babel/core": "^7.3.3",
     "@babel/plugin-external-helpers": "^7.2.0",
