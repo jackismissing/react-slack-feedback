@@ -178,7 +178,6 @@ const Trigger = styled.div`
   &:hover {
     box-shadow: ${theme('trigger.hoverBoxShadow')};
     background-color: ${theme('trigger.hoverBackgroundColor', 'inherit')};
-    transform: translateY(-1px);
     color: ${theme('trigger.hoverColor')};
     border-color: ${theme('colors.border')};
   }
